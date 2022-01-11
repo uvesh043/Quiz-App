@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: rgb(172, 172, 226);
+  scrollbar-width: thin;
+  
+}
+a{
+  text-decoration: inherit;
+  color: inherit;
+}
+.app {
+  /* background-image: url('./image/background_image2.png'); */
+  background-color: rgb(243, 240, 240);
+  min-height: 98.5vh;
+  border: 8px solid #39445a93;
+  margin: 5px;
+  padding: 5px; 
+}
+.selectTextField{
+  margin-top: 15px;
+}
